@@ -44,4 +44,3 @@ Bir şirketin İnsan Kaynakları departmanı için kritik performans göstergele
 2.  `.pbix` dosyasını Power BI Desktop ile açın.
 3.  Veri kaynağı ayarlarından kendi sunucu adınızı (Server Name) güncelleyin.
 4.  "Yenile" (Refresh) butonuna basarak verileri çekin.
-5.  

@@ -2,8 +2,8 @@
 
 Bu proje, ham verilerin **SQL** veritabanında yapılandırılmasından, **Power BI** üzerinde profesyonel bir iş zekası (BI) raporuna dönüştürülmesine kadar uzanan **uçtan uca (End-to-End)** bir veri analizi çalışmasıdır.
 
-![Dashboard Ekran Görüntüsü](Ekran_Goruntusu.jpg)
-*(Buraya dashboard'un ekran görüntüsünü ekleyeceksiniz)*
+![Dashboard Ekran Görüntüsü](Dashboard.JPG)
+
 
 ## 🎯 Projenin Amacı
 
@@ -44,7 +44,4 @@ Bir şirketin İnsan Kaynakları departmanı için kritik performans göstergele
 2.  `.pbix` dosyasını Power BI Desktop ile açın.
 3.  Veri kaynağı ayarlarından kendi sunucu adınızı (Server Name) güncelleyin.
 4.  "Yenile" (Refresh) butonuna basarak verileri çekin.
-
----
-**Geliştirici:** Safa
-*Yönetim Bilişim Sistemleri Öğrencisi & Veri Analisti Adayı*
+5.  
